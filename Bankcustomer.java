@@ -15,5 +15,5 @@ public class Bankcustomer {
     public static void main(String[] args){
         Bankcustomer c = Bankcustomer("rohit","F3600",40);
         c.Displaycust();
+    }
 }
-
